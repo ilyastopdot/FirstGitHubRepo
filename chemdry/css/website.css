@@ -1,0 +1,97 @@
+/* Tiny Carousel */
+#slider2 { width:100%; overflow:hidden; padding: 0 0 10px; float:left;}
+#slider2 .viewport { float:left; width:88%; height:65px; overflow: hidden; margin-top:10px; position: relative;}
+#slider2 .buttons { background:url(../images/arrows.jpg) no-repeat scroll 0 0 transparent; display: block; margin: 32px 40px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:16px; height:19px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 -19px; margin:30px 0 0 30px;}
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style:none; position: absolute; float:left;}
+#slider2 .overview li{ float:left;height:126px; width:360px; display:block; overflow:hidden; margin-left:4px;}
+.carousel_img{ float:left;}
+.carousel_hdng{ float:left; font-size:24px; padding:5px 0px 0px 15px; font-family:calibri; color:#000; font-weight:bold; text-align:left; line-height:26px;}
+
+
+@media only screen and (min-width:1024px) and (max-width:1280px){
+
+/* Tiny Carousel */
+#slider2 { overflow:hidden; padding: 0 0 10px; float:left;}
+#slider2 .viewport { float:left; width:936px; height:62px; overflow: hidden; position: relative;}
+#slider2 .buttons { background:url(../images/arrows.jpg) no-repeat scroll 0 0 transparent; display: block; margin: 30px 10px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:23px; height:16px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 -21px; margin:30px 0 0 10px;}
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style:none; position: absolute; float:left;}
+#slider2 .overview li{ float:left;height:120px; width:330px; display:block; overflow:hidden; margin-left:4px;}
+#slider2 .overview li span{ float:right; height:81px; width:1px; margin:0px 16px; display:block;}
+.carousel_img{ float:left;}
+.carousel_hdng{ float:left; font-size:24px; padding:5px 0px 0px 15px; font-family:calibri; color:#000; font-weight:bold; text-align:left; line-height:26px;}
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1023px){
+
+/* Tiny Carousel */
+#slider2 { overflow:hidden; padding: 0 0 10px; float:left;}
+#slider2 .viewport { float:left; width:680px; height:65px; overflow: hidden; position: relative;}
+#slider2 .buttons { background:url(../images/arrows.jpg)no-repeat scroll 0 0 transparent; display: block; margin: 30px 10px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:23px; height:16px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 -21px; margin:30px 0 0 10px;}
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style:none; position: absolute; float:left;}
+#slider2 .overview li{ float:left; height:70px; width:380px; display:block; overflow:hidden; margin-left:2px;}
+#slider2 .overview li span{ float:right; height:75px; width:1px; margin:0px 16px; display:block;}
+.carousel_img{ float:left;}
+.carousel_hdng{ float:left; font-size:24px; padding:5px 0px 0px 15px; font-family:calibri; color:#000; font-weight:bold; text-align:left; line-height:26px;}
+
+
+}
+
+/*@media only screen and (min-width:768px) and (max-width:795px){
+
+Tiny Carousel 
+#slider1 { overflow:hidden; padding: 0 0 10px; float:left;}
+#slider1 .viewport { float:left; width:725px; height:121px; overflow: hidden; position: relative;}
+#slider1 .buttons { background:url("../images/buttons.png") no-repeat scroll 0 0 transparent; display: block; margin: 30px 10px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:23px; height:16px; overflow: hidden; position: relative; }
+#slider1 .next { background-position: 0 -15px; margin:30px 0 0 10px;}
+#slider1 .disable { visibility: hidden; }
+#slider1 .overview { list-style:none; position: absolute; float:left;}
+#slider1 .overview li{ float:left;height:120px; width:147px; display:block; overflow:hidden; margin-left:4px;}
+#slider1 .overview li span{ float:right; height:81px; width:1px; margin:0px 16px; display:block;}
+
+}
+
+*/
+
+@media only screen and (min-width:360px) and (max-width:765px){
+
+/* Tiny Carousel */
+#slider2 { overflow:hidden; padding: 0 0 10px; float:left;}
+#slider2 .viewport { float:left; width:287px; height:62px; overflow: hidden; position: relative;}
+#slider2 .buttons { background:url(../images/arrows.jpg) no-repeat scroll 0 0 transparent; display: block; margin: 30px 10px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:23px; height:16px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 -21px; margin:30px 0 0 10px;}
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style:none; position: absolute; float:left;}
+#slider2 .overview li{ float:left;height:130px; width:283px; display:block; overflow:hidden; margin-left:4px;}
+#slider2 .overview li span{ float:right; height:81px; width:1px; margin:0px 16px; display:block;}
+.carousel_img{ float:left;}
+.carousel_hdng{ float:left; font-size:24px; padding:5px 0px 0px 15px; font-family:calibri; color:#000; font-weight:bold; text-align:left; line-height:26px;}
+
+}
+
+
+@media only screen and (min-width:320px) and (max-width:355px){
+
+/* Tiny Carousel */
+#slider2 { overflow:hidden; padding: 0 0 10px; float:left; width:100%;}
+#slider2 .viewport { float:left; width:78%; height:65px; overflow: hidden; position: relative;}
+#slider2 .buttons { background:url(../images/arrows.jpg) no-repeat scroll 0 0 transparent; display: block; margin: 30px 10px 0 0; background-position: 0 0px; text-indent: -999em; float: left; width:23px; height:16px; overflow: hidden; position: relative; }
+#slider2 .next { background-position: 0 -15px; margin:30px 0 0 10px;}
+#slider2 .disable { visibility: hidden; }
+#slider2 .overview { list-style:none; position: absolute; float:left;}
+#slider2 .overview li{ float:left; height:120px; width:135px; display:block; overflow:hidden; margin-left:4px;}
+#slider2 .overview li span{ float:right; height:81px; width:1px; margin:0px 16px; display:block;}
+.carousel_img{ float:left;}
+.carousel_hdng{ float:left; font-size:24px; padding:5px 0px 0px 15px; font-family:calibri; color:#000; font-weight:bold; text-align:left; line-height:26px;}
+
+}
+
+
+
